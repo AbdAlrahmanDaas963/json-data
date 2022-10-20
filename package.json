@@ -1,0 +1,22 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "fake server with fake database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdAlrahmanDaas963/json-data.git"
+  },
+  "author": "adb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdAlrahmanDaas963/json-data/issues"
+  },
+  "homepage": "https://github.com/AbdAlrahmanDaas963/json-data#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
